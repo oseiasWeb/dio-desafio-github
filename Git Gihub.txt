@@ -1,0 +1,9 @@
+O QUE É O GITHUB?
+
+GitHub é um serviço onde podemos criar projetos, dentro de repositórios e compartilhar na comunidade.
+
+O Git não é a mesma coisa que o GitHub, mas o GitHub depende do Git, trabalham em parceria.
+
+O GitHub se tornou seu cartão de visita para recrutadores na busca de bons programadores.
+
+É essencial saber subir projetos e mantê-los organizados e atualizados.
